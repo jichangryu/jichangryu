@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jichang.
-
+I'm a radiation engineer who is passionate about progamming and data visulization. I'm a PhD student at KAIST and also work for KEPCO Nuclear Fuel company.
 ### Where I work
 [KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
 ### Research topic
