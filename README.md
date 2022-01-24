@@ -2,8 +2,15 @@
 
 ### Where I work
 [KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
-### 👀 Research topic
-### 🌱 Currently Working On
+### Research topic
+* Bayesian modeling for radioactive inference
+* DAQ to acquire and to interprete radiation spectrum
+### Skill
+* Communication language: Korean(native), English
+* Programming language: Python, C++
+* Monte Carlo simulation: MCNP, Geant4
+### Contact me
+ryujc@kaist.ac.kr
 
 
 <!---
