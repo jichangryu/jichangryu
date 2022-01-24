@@ -1,6 +1,9 @@
-## 👋 Hi, I’m Jichang Ryu. @jichangryu
-## 👀 I’m interested in ...
-## 🌱 I’m currently working in ...
+# 👋 Hi, I’m Jichang.
+
+### Where I work
+[KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
+### 👀 Research topic
+### 🌱 Currently Working On
 
 
 <!---
