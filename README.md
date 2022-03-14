@@ -3,7 +3,7 @@ I'm a radiation engineer who is passionate about radiaion detection, progamming 
 ### Where I work
 [KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
 ### Research topic
-* Bayesian modeling for radioactive inference
+* Bayesian modeling for radiation detection
 * DAQ to acquire and to interprete radiation spectrum
 ### Skill
 * Communication language: Korean(native), English
