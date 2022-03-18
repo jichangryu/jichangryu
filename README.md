@@ -6,7 +6,7 @@ I'm a radiation engineer who is passionate about radiaion detection, progamming 
 * Bayesian modeling for radiation detection
 * DAQ to acquire and to interprete radiation spectrum
 ### Skill
-* Communication language: Korean(native), English
+* Communication language: Korean(native), English(fluent)
 * Programming language: Python, C++
 * Monte Carlo simulation: MCNP, Geant4
 ### Contact me
