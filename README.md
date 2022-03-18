@@ -4,7 +4,8 @@ I'm a radiation engineer who is passionate about radiaion detection, progamming 
 [KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
 ### Research topic
 * Bayesian modeling for radiation detection
-* DAQ to acquire and to interprete radiation spectrum
+* Monte carlo simulation with GPU
+* Advanced DAQ concept to acquire and to interprete radiation spectrum
 ### Skill
 * Communication language: Korean(native), English(fluent)
 * Programming language: Python, C++
