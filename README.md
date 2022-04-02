@@ -10,6 +10,7 @@ I'm a radiation engineer who is passionate about radiaion detection, monte calro
 * Communication language: Korean(native), English(fluent)
 * Programming language: Python, C++
 * Monte Carlo simulation: MCNP, Geant4, PHITS
+* Dose calculation program: RESRAD, NRC DOSE
 ### Contact me
 ryujc@kaist.ac.kr
 
