@@ -9,7 +9,7 @@ I'm a radiation engineer who is passionate about radiaion detection, monte calro
 ### Skill
 * Communication language: Korean(native), English(fluent)
 * Programming language: Python, C++
-* Monte Carlo simulation: MCNP, Geant4
+* Monte Carlo simulation: MCNP, Geant4, PHITS
 ### Contact me
 ryujc@kaist.ac.kr
 
