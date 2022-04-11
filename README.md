@@ -4,12 +4,12 @@ I'm a radiation engineer who is passionate about radiaion detection, monte calro
 ### Where I work
 [KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
 
-### Research topic
+### Research topics
 * Bayesian modeling for radiation detection
 * Monte carlo simulation with GPU
 * Advanced DAQ concept to acquire and to interprete radiation spectrum
 
-### Skill
+### Skills
 * Communication language: Korean(native), English(fluent)
 * Monte Carlo simulation: MCNP, Geant4, PHITS
 * Dose calculation program: RESRAD, NRC DOSE
