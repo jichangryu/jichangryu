@@ -5,7 +5,7 @@ I'm a radiation engineer who is passionate about radiaion detection, monte calro
 [KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
 
 ### Research topics
-* Bayesian modeling for radiation detection
+* Probabilitstic modeling for radiation detection
 * Monte carlo simulation with GPU
 * Advanced DAQ concept to acquire and to interprete radiation spectrum
 
