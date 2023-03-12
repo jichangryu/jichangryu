@@ -14,7 +14,7 @@ I'm a radiation engineer who is passionate about radiaion detection, monte calro
 * Monte Carlo simulation: MCNP, Geant4
 * Dose calculation program: RESRAD, NRC DOSE, IMBA
 * Programming language: Python, C++, Julia
-* Probabilistic programming language: PyMC, Pyro, Stan
+* Probabilistic programming language: PyMC, Stan
 * Deep learning framework: Pytorch, Keras, Tensorflow
 
 ### Contact me
