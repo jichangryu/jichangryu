@@ -6,7 +6,7 @@ I'm a radiation engineer who is passionate about radiaion detection, monte calro
 
 ### Research topics
 * Probabilistic modeling for radiation detection
-* Monte carlo simulation with GPU
+* Monte carlo simulation with GPU and surrogate model
 * Advanced DAQ concept to acquire and to interprete radiation spectrum
 
 ### Skills
