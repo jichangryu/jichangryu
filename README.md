@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Jichang.
-I'm a radiation engineer who is passionate about radiaion detection, monte calro simulation, scientific computing and data visulization. I'm a Ph.D. student at KAIST(Korea Advanced Institute of Science and Technology) and also work for KEPCO Nuclear Fuel company.
+I'm a radiation engineer passionate about radiation detection, Monte Carlo simulation, scientific computing, and data visualization. I'm a Ph.D. student at KAIST(Korea Advanced Institute of Science and Technology) working for KEPCO Nuclear Fuel Company.
 
 ### Where I work
 [KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
 
 ### Research topics
 * Probabilistic modeling for radiation detection
-* Monte carlo simulation with GPU and surrogate model
-* Advanced DAQ concept to acquire and to interprete radiation spectrum
+* Differentiable Monte Carlo simulation
+* Advanced DAQ concept to acquire and to interpret radiation spectrum
 
 ### Skills
 * Communication language: Korean(native), English(fluent)
@@ -15,7 +15,7 @@ I'm a radiation engineer who is passionate about radiaion detection, monte calro
 * Dose calculation program: RESRAD, NRC DOSE, IMBA
 * Programming language: Python, C++, Julia
 * Probabilistic programming language: PyMC, Stan
-* Deep learning framework: Pytorch, Keras, Tensorflow
+* Deep learning framework: Pytorch, Keras, TensorFlow
 
 ### Contact me
 ryujc@kaist.ac.kr
