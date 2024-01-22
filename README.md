@@ -5,9 +5,9 @@ I'm a radiation engineer passionate about radiation detection, Monte Carlo simul
 [KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
 
 ### Research topics
-* Probabilistic modeling for radiation detection
+* Probabilistic modeling for radiation detection and analysis
 * Differentiable Monte Carlo simulation
-* Advanced DAQ concept to acquire and to interpret radiation spectrum
+* Advanced DAQ concept to acquire and interpret radiation spectrum
 
 ### Skills
 * Communication language: Korean(native), English(fluent)
@@ -15,7 +15,7 @@ I'm a radiation engineer passionate about radiation detection, Monte Carlo simul
 * Dose calculation program: RESRAD, NRC DOSE, IMBA
 * Programming language: Python, C++, Julia
 * Probabilistic programming language: (Num)Pyro, PyMC, Stan
-* Deep learning framework: Pytorch, Keras, TensorFlow
+* Deep learning framework: Pytorch, Flax, Keras, TensorFlow
 
 ### Contact me
 ryujc@kaist.ac.kr
