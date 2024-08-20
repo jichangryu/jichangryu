@@ -1,5 +1,5 @@
 # 👋 Hi, I’m Jichang.
-I'm a radiation engineer passionate about radiation detection, Monte Carlo simulation, and scientific computing. I'm a Ph.D. student at KAIST(Korea Advanced Institute of Science and Technology).
+I'm a radiation engineer passionate about radiation detection, Monte Carlo simulation, and scientific computing. I earned a Ph.D. at KAIST(Korea Advanced Institute of Science and Technology).
 
 ### Where I work
 [KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
