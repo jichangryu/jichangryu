@@ -12,13 +12,13 @@ I'm a radiation engineer passionate about radiation detection, Monte Carlo simul
 ### Skills
 * Communication language: Korean(native), English(fluent)
 * Monte Carlo simulation: MCNP, Geant4
-* Dose calculation program: RESRAD, NRC DOSE, IMBA
-* Programming language: Python, C++, Julia
+* Dose calculation program: IMBA
+* Programming language: Python, C++
 * Probabilistic programming language: (Num)Pyro, PyMC, Stan
 * Deep learning framework: Pytorch, Flax, Keras, TensorFlow
 
 ### Contact me
-ryujc@kaist.ac.kr
+ryujc@knfc.co.kr
 
 
 <!---
