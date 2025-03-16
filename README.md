@@ -6,7 +6,7 @@ Korea Institue of Nuclear Safety ([KINS](https://www.kins.re.kr/en/index))
 
 ### Research topics
 * In-situ gamma spectrometry
-* Probabilistic modeling for radiation detection system and data analysis
+* Probabilistic modeling for radiation detection system
 * Differentiable Monte Carlo simulation
 
 ### Skills
