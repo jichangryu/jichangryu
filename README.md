@@ -2,7 +2,7 @@
 I'm a radiation engineer passionate about radiation detection, Monte Carlo simulation, and scientific computing. I earned a Ph.D. at KAIST(Korea Advanced Institute of Science and Technology).
 
 ### Where I work
-[KINS](https://www.kins.re.kr)
+Korea Institue of Nuclear Safety ([KINS](https://www.kins.re.kr/en/index))
 
 ### Research topics
 * Probabilistic modeling for radiation detection system and data analysis
