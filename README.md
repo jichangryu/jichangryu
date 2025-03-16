@@ -2,7 +2,7 @@
 I'm a radiation engineer passionate about radiation detection, Monte Carlo simulation, and scientific computing. I earned a Ph.D. at KAIST(Korea Advanced Institute of Science and Technology).
 
 ### Where I work
-[KEPCO NF](https://www.knfc.co.kr/eps): radiation engineer
+[KINS](https://www.kins.re.kr)
 
 ### Research topics
 * Probabilistic modeling for radiation detection system and data analysis
@@ -16,7 +16,7 @@ I'm a radiation engineer passionate about radiation detection, Monte Carlo simul
 * Deep learning framework: Pytorch, Flax, Keras, TensorFlow
 
 ### Contact me
-ryujc@knfc.co.kr
+jichang.ryu@kins.re.kr
 
 
 <!---
