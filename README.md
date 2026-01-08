@@ -13,8 +13,8 @@ Korea Institue of Nuclear Safety ([KINS](https://www.kins.re.kr/en/index))
 * Communication language: Korean(native), English(fluent)
 * Monte Carlo simulation: MCNP, Geant4
 * Programming language: Python, C++
-* Probabilistic programming language: (Num)Pyro, PyMC, Stan
-* Deep learning framework: Pytorch, Flax, Keras, TensorFlow
+* Probabilistic programming language: (Num)Pyro, PyMC
+* Deep learning framework: Pytorch, Flax, Keras
 
 ### Contact me
 jichang.ryu@kins.re.kr
